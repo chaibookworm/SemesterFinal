@@ -1,0 +1,4 @@
+h1 {
+	color: 99FFFF;
+}
+/*I want to apply a navy-blue font color to all the text in "BluedragonDesigns.HTML." Is there a way to just universally do that without having to indicate each line of text separately? And ditto for a typwriter or Courier font*/
