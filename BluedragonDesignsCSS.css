@@ -7,4 +7,7 @@ h1 {
 h3 {
 	color: 142487;
 }
-/*Woo-hoo! Yippeee! As of the end of last work session I definitely got this document to play nice with the HTML document! I have successfully changed what I wanted to change! Next steps: Get logo picture from Jingyi, change fonts to Courier)
+/*So as of last class, CSS and HTML were playing nice. Now the below command, font, isn't working. S.O.S.!*/
+p {
+	font-family: "Courier", monospace;
+}
