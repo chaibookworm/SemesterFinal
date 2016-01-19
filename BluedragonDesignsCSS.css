@@ -4,10 +4,83 @@ body {
 h1 {
 	color: 142487;
 }
-h3 {
+h2 {
 	color: 142487;
 }
-/*So as of last class, CSS and HTML were playing nice. Now the below command, font, isn't working. S.O.S.!*/
-p {
+h3 {
+     color:142487;
+}
+h4 {
+     color:142487; /*not working*/
+}
+h5 {
+     color:142487;
+}
+h1 {
 	font-family: "Courier", monospace;
 }
+h2 {
+     font-family: "Courier", monospace;
+}
+h3 {
+     font-family: "Courier", monospace;
+}
+h4 {
+     font-family: "Courier", monospace;
+}
+h5 {
+     font-family: "Courier", monospace;
+}
+ .dropbtn {
+     background-color: #142487;
+     color: white;
+     padding: 16px;
+     font-size: 16px;
+     border: none;
+     cursor: pointer;
+ }
+
+.dropdown {
+     position: relative;
+     display: inline-block;
+ }
+
+.dropdown-content {
+     display: none;
+     position: absolute;
+     background-color: #1b1870;
+     min-width: 160px;
+     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+ }
+
+.dropdown-content a {
+     color: white;
+     padding: 12px 16px;
+     text-decoration: none;
+     display: block;
+ }
+
+.dropdown-content a:hover {background-color: #371870}
+
+.dropdown:hover .dropdown-content {
+     display: block;
+ }
+
+.dropdown:hover .dropbtn {
+     background-color: #371870;
+ }
+
+ img {
+      opacity: 1.0;
+      filter: alpha(opacity=100); /* For IE8 and earlier */
+  }
+
+img:hover {
+      opacity: 0.4;
+      filter: alpha(opacity=40); /* For IE8 and earlier */
+  } 
+
+ /*
+ </style>
+ </head>
+ <body>

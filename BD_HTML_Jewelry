@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title>BD_HTML_Jewelry</title>
+		<link rel="stylesheet" href="BluedragonDesignsCSS.css">
+		<script src="BluedragonDesignsJAVASCRIPT.js"></script>
+	</head>
+	<body>
+		<img src="LogoPleaseWork.jpeg" alt="logo" style="width:135px;height:240px;float:left">
+		<h1><b>Bluedragon Designs</h1></b>
+		<h3>Jewelry<h3>
+			<br>
+<center><img src="AnnaJewelry.jpeg" alt="picture" style=width:260px;height:260px;float:center;>
+<img src="AnnaJewelry1.jpeg" alt="picture" style=width:260px;height:260px;float:center;>
+<br>
+<center><img src="AnnaJewelry2.jpeg" alt="picture" style=width:260px;height:260px;float:center;>
+<img src="AnnaJewelry4.jpeg" alt="picture" style=width:260px;height:260px;float:center;>
+
+
+
+ </head>
+ <body>
+
